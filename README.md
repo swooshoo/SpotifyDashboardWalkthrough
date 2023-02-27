@@ -13,3 +13,5 @@ Utilized a geographical map that allows the user to see top artists and songs by
 Also added a webpage object that allowed the user to preview the song being selected in the dashboard directly on the browser.
 
 This project was meant to be a stepping stone into further Spotify-related dashboards. 
+
+Later led a Tableau Visualization Workshop on campus to Tableau beginners and recreated this project live for students to try and follow along themselves.
